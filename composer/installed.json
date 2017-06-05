@@ -1,0 +1,33 @@
+[
+    {
+        "name": "hisheng/dir",
+        "version": "0.1.2",
+        "version_normalized": "0.1.2.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/hisheng/dir.git",
+            "reference": "58b9373f2ef9b70c327357ac70d60d7a347950dc"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://files.phpcomposer.com/files/hisheng/dir/58b9373f2ef9b70c327357ac70d60d7a347950dc.zip",
+            "reference": "58b9373f2ef9b70c327357ac70d60d7a347950dc",
+            "shasum": ""
+        },
+        "time": "2017-06-05T05:52:14+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "Dir\\": "src/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "authors": [
+            {
+                "name": "张海生",
+                "email": "465908774@qq.com"
+            }
+        ]
+    }
+]
